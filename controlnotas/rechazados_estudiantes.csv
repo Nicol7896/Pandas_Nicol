@@ -1,0 +1,903 @@
+Nombre_Estudiante,Edad_Estu,Carrera,Nota1,Nota2,Nota3,Motivo_Rechazo
+Test,-1.0,Ing,-1.0,6.0,3.0,Prueba
+Test,-1.0,Ing,-1.0,6.0,3.0,Prueba
+Paula,21.0,Fisica,4.0,4.5,3.0,Estudiante duplicado
+Carlos,19.0,Ingeniería,,4.5,,Datos faltantes; Estudiante duplicado; Nota1 inválida; Nota3 inválida
+Ana,18.0,Ingeniería,2.0,5.0,3.0,Estudiante duplicado
+maria,,,5.0,4.5,3.0,Datos faltantes
+Paula,,Fisica,2.0,5.0,3.0,Datos faltantes; Estudiante duplicado
+maria,23.0,Ingeniería,5.0,4.5,3.0,Estudiante duplicado
+LUIS,22.0,Matemáticas,2.0,3.5,4.0,Estudiante duplicado
+Paula,20.0,Matematicas,,4.5,2.0,Datos faltantes; Nota1 inválida
+Ana,21.0,Ingeniería,5.0,5.0,5.0,Estudiante duplicado
+maria,23.0,Ingeniería,4.0,3.0,3.0,Estudiante duplicado
+Carlos,20.0,Ingeniería,2.0,4.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Ana,20.0,fisica,2.0,3.0,3.0,Estudiante duplicado
+Ana,18.0,Ingeniería,5.0,3.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+LUIS,20.0,Ingeniería,4.0,2.5,4.0,Estudiante duplicado
+,22.0,Matemáticas,4.0,3.5,,Datos faltantes; Nota3 inválida
+maria,,Matemáticas,,4.5,5.0,Datos faltantes; Nota1 inválida
+Luis,23.0,Física,4.0,3.0,2.0,Estudiante duplicado
+Ana,20.0,Ingeniería,4.0,3.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+,18.0,Ingeniería,4.0,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Luis,22.0,Ingeniería,3.5,3.0,2.0,Estudiante duplicado
+maria,19.0,Ingeniería,,5.0,5.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Ana,,Matematicas,2.0,2.5,3.0,Datos faltantes; Estudiante duplicado
+maria,,Matemáticas,5.0,4.5,,Datos faltantes; Nota3 inválida
+,23.0,Ingeniería,2.0,5.0,2.0,Estudiante duplicado
+JOSE,,,,2.5,4.0,Datos faltantes; Nota1 inválida
+Ana,20.0,Física,5.0,3.0,2.0,Estudiante duplicado
+maria,18.0,Ingeniería,,3.0,4.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+LUIS,,Fisica,4.0,2.5,5.0,Datos faltantes; Estudiante duplicado
+Paula,,Ingeniería,5.0,3.0,3.0,Datos faltantes
+Carlos,19.0,fisica,4.0,2.5,2.0,Estudiante duplicado
+JOSE,19.0,Ingeniería,2.0,5.0,,Datos faltantes; Nota3 inválida
+LUIS,21.0,Física,2.0,5.0,5.0,Estudiante duplicado
+maria,22.0,fisica,5.0,2.5,2.0,Estudiante duplicado
+LUIS,20.0,Ingeniería,5.0,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Paula,,Fisica,,5.0,2.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+maria,,Matemáticas,,5.0,4.0,Datos faltantes; Nota1 inválida
+JOSE,18.0,Física,4.0,3.5,2.0,Estudiante duplicado
+Paula,21.0,Física,5.0,4.5,2.0,Estudiante duplicado
+Luis,22.0,Ingeniería,2.0,3.0,2.0,Estudiante duplicado
+Carlos,21.0,Física,,3.5,5.0,Datos faltantes; Nota1 inválida
+JOSE,23.0,Física,,5.0,2.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Luis,22.0,Matematicas,2.0,2.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+maria,,Fisica,,5.0,4.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+JOSE,,Fisica,4.0,4.5,4.0,Datos faltantes; Estudiante duplicado
+maria,22.0,Matematicas,5.0,5.0,2.0,Estudiante duplicado
+maria,,,2.0,2.5,5.0,Datos faltantes
+Luis,20.0,Matematicas,5.0,4.5,5.0,Estudiante duplicado
+Carlos,22.0,Matematicas,,5.0,,Datos faltantes; Nota1 inválida; Nota3 inválida
+Paula,21.0,Fisica,,4.5,2.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Ana,22.0,Ingeniería,2.0,3.0,4.0,Estudiante duplicado
+LUIS,,Fisica,4.0,3.0,5.0,Datos faltantes; Estudiante duplicado
+Ana,20.0,Física,3.5,5.0,2.0,Estudiante duplicado
+Carlos,20.0,Ingeniería,2.0,4.5,5.0,Estudiante duplicado
+Luis,23.0,fisica,3.5,2.5,5.0,Estudiante duplicado
+Ana,21.0,Ingeniería,3.5,5.0,4.0,Estudiante duplicado
+Carlos,19.0,Matemáticas,4.0,3.0,3.0,Estudiante duplicado
+Luis,19.0,fisica,3.5,3.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+,22.0,Ingeniería,3.5,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+,23.0,Física,4.0,4.5,4.0,Estudiante duplicado
+maria,18.0,Física,3.5,3.0,5.0,Estudiante duplicado
+Carlos,22.0,Matemáticas,3.5,4.5,2.0,Estudiante duplicado
+,23.0,Ingeniería,3.5,3.0,5.0,Estudiante duplicado
+Luis,21.0,,2.0,3.0,4.0,Estudiante duplicado
+maria,21.0,Matematicas,2.0,3.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Luis,21.0,Ingeniería,2.0,3.0,5.0,Estudiante duplicado
+maria,21.0,,4.0,2.5,,Datos faltantes; Nota3 inválida
+Carlos,21.0,Física,,5.0,2.0,Datos faltantes; Nota1 inválida
+Ana,23.0,Fisica,3.5,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Paula,23.0,Ingeniería,3.5,4.5,,Datos faltantes; Nota3 inválida
+JOSE,20.0,Matemáticas,4.0,3.0,3.0,Estudiante duplicado
+Ana,19.0,Ingeniería,3.5,2.5,3.0,Estudiante duplicado
+maria,,Ingeniería,2.0,4.5,3.0,Datos faltantes; Estudiante duplicado
+Luis,21.0,Ingeniería,,3.5,,Datos faltantes; Estudiante duplicado; Nota1 inválida; Nota3 inválida
+maria,18.0,Ingeniería,5.0,4.5,4.0,Estudiante duplicado
+Ana,,Física,3.5,4.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+maria,23.0,Física,2.0,3.0,4.0,Estudiante duplicado
+JOSE,18.0,Matematicas,5.0,3.5,4.0,Estudiante duplicado
+JOSE,18.0,Matematicas,,4.5,3.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Ana,18.0,Matematicas,5.0,2.5,5.0,Estudiante duplicado
+JOSE,20.0,Fisica,2.0,2.5,2.0,Estudiante duplicado
+Paula,23.0,fisica,5.0,5.0,3.0,Estudiante duplicado
+JOSE,18.0,Física,4.0,3.5,3.0,Estudiante duplicado
+Ana,21.0,fisica,5.0,3.5,5.0,Estudiante duplicado
+Ana,22.0,Ingeniería,3.5,5.0,2.0,Estudiante duplicado
+Ana,18.0,fisica,3.5,4.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Ana,20.0,Fisica,4.0,3.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+LUIS,,Ingeniería,2.0,2.5,3.0,Datos faltantes; Estudiante duplicado
+Ana,23.0,fisica,3.5,2.5,2.0,Estudiante duplicado
+Ana,20.0,Fisica,,3.0,3.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+LUIS,18.0,Física,3.5,3.5,4.0,Estudiante duplicado
+LUIS,23.0,fisica,3.5,4.5,3.0,Estudiante duplicado
+Ana,22.0,Fisica,2.0,5.0,3.0,Estudiante duplicado
+maria,18.0,Matematicas,5.0,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+maria,20.0,Física,3.5,4.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Paula,19.0,Matematicas,4.0,3.0,,Datos faltantes; Nota3 inválida
+maria,21.0,Física,5.0,5.0,4.0,Estudiante duplicado
+JOSE,,Matemáticas,,3.5,,Datos faltantes; Estudiante duplicado; Nota1 inválida; Nota3 inválida
+Paula,20.0,Matemáticas,2.0,3.0,2.0,Estudiante duplicado
+JOSE,23.0,Matemáticas,,3.5,5.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Ana,18.0,Física,5.0,2.5,2.0,Estudiante duplicado
+Paula,21.0,Fisica,4.0,4.5,3.0,Estudiante duplicado
+Carlos,19.0,Ingeniería,,4.5,,Datos faltantes; Estudiante duplicado; Nota1 inválida; Nota3 inválida
+Ana,18.0,Ingeniería,2.0,5.0,3.0,Estudiante duplicado
+maria,,,5.0,4.5,3.0,Datos faltantes
+Paula,,Fisica,2.0,5.0,3.0,Datos faltantes; Estudiante duplicado
+maria,23.0,Ingeniería,5.0,4.5,3.0,Estudiante duplicado
+LUIS,22.0,Matemáticas,2.0,3.5,4.0,Estudiante duplicado
+Paula,20.0,Matematicas,,4.5,2.0,Datos faltantes; Nota1 inválida
+Ana,21.0,Ingeniería,5.0,5.0,5.0,Estudiante duplicado
+maria,23.0,Ingeniería,4.0,3.0,3.0,Estudiante duplicado
+Carlos,20.0,Ingeniería,2.0,4.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Ana,20.0,fisica,2.0,3.0,3.0,Estudiante duplicado
+Ana,18.0,Ingeniería,5.0,3.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+LUIS,20.0,Ingeniería,4.0,2.5,4.0,Estudiante duplicado
+,22.0,Matemáticas,4.0,3.5,,Datos faltantes; Nota3 inválida
+maria,,Matemáticas,,4.5,5.0,Datos faltantes; Nota1 inválida
+Luis,23.0,Física,4.0,3.0,2.0,Estudiante duplicado
+Ana,20.0,Ingeniería,4.0,3.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+,18.0,Ingeniería,4.0,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Luis,22.0,Ingeniería,3.5,3.0,2.0,Estudiante duplicado
+maria,19.0,Ingeniería,,5.0,5.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Ana,,Matematicas,2.0,2.5,3.0,Datos faltantes; Estudiante duplicado
+maria,,Matemáticas,5.0,4.5,,Datos faltantes; Nota3 inválida
+,23.0,Ingeniería,2.0,5.0,2.0,Estudiante duplicado
+JOSE,,,,2.5,4.0,Datos faltantes; Nota1 inválida
+Ana,20.0,Física,5.0,3.0,2.0,Estudiante duplicado
+maria,18.0,Ingeniería,,3.0,4.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+LUIS,,Fisica,4.0,2.5,5.0,Datos faltantes; Estudiante duplicado
+Paula,,Ingeniería,5.0,3.0,3.0,Datos faltantes
+Carlos,19.0,fisica,4.0,2.5,2.0,Estudiante duplicado
+JOSE,19.0,Ingeniería,2.0,5.0,,Datos faltantes; Nota3 inválida
+LUIS,21.0,Física,2.0,5.0,5.0,Estudiante duplicado
+maria,22.0,fisica,5.0,2.5,2.0,Estudiante duplicado
+LUIS,20.0,Ingeniería,5.0,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Paula,,Fisica,,5.0,2.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+maria,,Matemáticas,,5.0,4.0,Datos faltantes; Nota1 inválida
+JOSE,18.0,Física,4.0,3.5,2.0,Estudiante duplicado
+Paula,21.0,Física,5.0,4.5,2.0,Estudiante duplicado
+Luis,22.0,Ingeniería,2.0,3.0,2.0,Estudiante duplicado
+Carlos,21.0,Física,,3.5,5.0,Datos faltantes; Nota1 inválida
+JOSE,23.0,Física,,5.0,2.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Luis,22.0,Matematicas,2.0,2.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+maria,,Fisica,,5.0,4.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+JOSE,,Fisica,4.0,4.5,4.0,Datos faltantes; Estudiante duplicado
+maria,22.0,Matematicas,5.0,5.0,2.0,Estudiante duplicado
+maria,,,2.0,2.5,5.0,Datos faltantes
+Luis,20.0,Matematicas,5.0,4.5,5.0,Estudiante duplicado
+Carlos,22.0,Matematicas,,5.0,,Datos faltantes; Nota1 inválida; Nota3 inválida
+Paula,21.0,Fisica,,4.5,2.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Ana,22.0,Ingeniería,2.0,3.0,4.0,Estudiante duplicado
+LUIS,,Fisica,4.0,3.0,5.0,Datos faltantes; Estudiante duplicado
+Ana,20.0,Física,3.5,5.0,2.0,Estudiante duplicado
+Carlos,20.0,Ingeniería,2.0,4.5,5.0,Estudiante duplicado
+Luis,23.0,fisica,3.5,2.5,5.0,Estudiante duplicado
+Ana,21.0,Ingeniería,3.5,5.0,4.0,Estudiante duplicado
+Carlos,19.0,Matemáticas,4.0,3.0,3.0,Estudiante duplicado
+Luis,19.0,fisica,3.5,3.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+,22.0,Ingeniería,3.5,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+,23.0,Física,4.0,4.5,4.0,Estudiante duplicado
+maria,18.0,Física,3.5,3.0,5.0,Estudiante duplicado
+Carlos,22.0,Matemáticas,3.5,4.5,2.0,Estudiante duplicado
+,23.0,Ingeniería,3.5,3.0,5.0,Estudiante duplicado
+Luis,21.0,,2.0,3.0,4.0,Estudiante duplicado
+maria,21.0,Matematicas,2.0,3.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Luis,21.0,Ingeniería,2.0,3.0,5.0,Estudiante duplicado
+maria,21.0,,4.0,2.5,,Datos faltantes; Nota3 inválida
+Carlos,21.0,Física,,5.0,2.0,Datos faltantes; Nota1 inválida
+Ana,23.0,Fisica,3.5,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Paula,23.0,Ingeniería,3.5,4.5,,Datos faltantes; Nota3 inválida
+JOSE,20.0,Matemáticas,4.0,3.0,3.0,Estudiante duplicado
+Ana,19.0,Ingeniería,3.5,2.5,3.0,Estudiante duplicado
+maria,,Ingeniería,2.0,4.5,3.0,Datos faltantes; Estudiante duplicado
+Luis,21.0,Ingeniería,,3.5,,Datos faltantes; Estudiante duplicado; Nota1 inválida; Nota3 inválida
+maria,18.0,Ingeniería,5.0,4.5,4.0,Estudiante duplicado
+Ana,,Física,3.5,4.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+maria,23.0,Física,2.0,3.0,4.0,Estudiante duplicado
+JOSE,18.0,Matematicas,5.0,3.5,4.0,Estudiante duplicado
+JOSE,18.0,Matematicas,,4.5,3.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Ana,18.0,Matematicas,5.0,2.5,5.0,Estudiante duplicado
+JOSE,20.0,Fisica,2.0,2.5,2.0,Estudiante duplicado
+Paula,23.0,fisica,5.0,5.0,3.0,Estudiante duplicado
+JOSE,18.0,Física,4.0,3.5,3.0,Estudiante duplicado
+Ana,21.0,fisica,5.0,3.5,5.0,Estudiante duplicado
+Ana,22.0,Ingeniería,3.5,5.0,2.0,Estudiante duplicado
+Ana,18.0,fisica,3.5,4.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Ana,20.0,Fisica,4.0,3.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+LUIS,,Ingeniería,2.0,2.5,3.0,Datos faltantes; Estudiante duplicado
+Ana,23.0,fisica,3.5,2.5,2.0,Estudiante duplicado
+Ana,20.0,Fisica,,3.0,3.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+LUIS,18.0,Física,3.5,3.5,4.0,Estudiante duplicado
+LUIS,23.0,fisica,3.5,4.5,3.0,Estudiante duplicado
+Ana,22.0,Fisica,2.0,5.0,3.0,Estudiante duplicado
+maria,18.0,Matematicas,5.0,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+maria,20.0,Física,3.5,4.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Paula,19.0,Matematicas,4.0,3.0,,Datos faltantes; Nota3 inválida
+maria,21.0,Física,5.0,5.0,4.0,Estudiante duplicado
+JOSE,,Matemáticas,,3.5,,Datos faltantes; Estudiante duplicado; Nota1 inválida; Nota3 inválida
+Paula,20.0,Matemáticas,2.0,3.0,2.0,Estudiante duplicado
+JOSE,23.0,Matemáticas,,3.5,5.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Ana,18.0,Física,5.0,2.5,2.0,Estudiante duplicado
+Paula,21.0,Fisica,4.0,4.5,3.0,Estudiante duplicado
+Carlos,19.0,Ingeniería,,4.5,,Datos faltantes; Estudiante duplicado; Nota1 inválida; Nota3 inválida
+Ana,18.0,Ingeniería,2.0,5.0,3.0,Estudiante duplicado
+maria,,,5.0,4.5,3.0,Datos faltantes
+Paula,,Fisica,2.0,5.0,3.0,Datos faltantes; Estudiante duplicado
+maria,23.0,Ingeniería,5.0,4.5,3.0,Estudiante duplicado
+LUIS,22.0,Matemáticas,2.0,3.5,4.0,Estudiante duplicado
+Paula,20.0,Matematicas,,4.5,2.0,Datos faltantes; Nota1 inválida
+Ana,21.0,Ingeniería,5.0,5.0,5.0,Estudiante duplicado
+maria,23.0,Ingeniería,4.0,3.0,3.0,Estudiante duplicado
+Carlos,20.0,Ingeniería,2.0,4.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Ana,20.0,fisica,2.0,3.0,3.0,Estudiante duplicado
+Ana,18.0,Ingeniería,5.0,3.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+LUIS,20.0,Ingeniería,4.0,2.5,4.0,Estudiante duplicado
+,22.0,Matemáticas,4.0,3.5,,Datos faltantes; Nota3 inválida
+maria,,Matemáticas,,4.5,5.0,Datos faltantes; Nota1 inválida
+Luis,23.0,Física,4.0,3.0,2.0,Estudiante duplicado
+Ana,20.0,Ingeniería,4.0,3.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+,18.0,Ingeniería,4.0,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Luis,22.0,Ingeniería,3.5,3.0,2.0,Estudiante duplicado
+maria,19.0,Ingeniería,,5.0,5.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Ana,,Matematicas,2.0,2.5,3.0,Datos faltantes; Estudiante duplicado
+maria,,Matemáticas,5.0,4.5,,Datos faltantes; Nota3 inválida
+,23.0,Ingeniería,2.0,5.0,2.0,Estudiante duplicado
+JOSE,,,,2.5,4.0,Datos faltantes; Nota1 inválida
+Ana,20.0,Física,5.0,3.0,2.0,Estudiante duplicado
+maria,18.0,Ingeniería,,3.0,4.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+LUIS,,Fisica,4.0,2.5,5.0,Datos faltantes; Estudiante duplicado
+Paula,,Ingeniería,5.0,3.0,3.0,Datos faltantes
+Carlos,19.0,fisica,4.0,2.5,2.0,Estudiante duplicado
+JOSE,19.0,Ingeniería,2.0,5.0,,Datos faltantes; Nota3 inválida
+LUIS,21.0,Física,2.0,5.0,5.0,Estudiante duplicado
+maria,22.0,fisica,5.0,2.5,2.0,Estudiante duplicado
+LUIS,20.0,Ingeniería,5.0,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Paula,,Fisica,,5.0,2.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+maria,,Matemáticas,,5.0,4.0,Datos faltantes; Nota1 inválida
+JOSE,18.0,Física,4.0,3.5,2.0,Estudiante duplicado
+Paula,21.0,Física,5.0,4.5,2.0,Estudiante duplicado
+Luis,22.0,Ingeniería,2.0,3.0,2.0,Estudiante duplicado
+Carlos,21.0,Física,,3.5,5.0,Datos faltantes; Nota1 inválida
+JOSE,23.0,Física,,5.0,2.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Luis,22.0,Matematicas,2.0,2.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+maria,,Fisica,,5.0,4.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+JOSE,,Fisica,4.0,4.5,4.0,Datos faltantes; Estudiante duplicado
+maria,22.0,Matematicas,5.0,5.0,2.0,Estudiante duplicado
+maria,,,2.0,2.5,5.0,Datos faltantes
+Luis,20.0,Matematicas,5.0,4.5,5.0,Estudiante duplicado
+Carlos,22.0,Matematicas,,5.0,,Datos faltantes; Nota1 inválida; Nota3 inválida
+Paula,21.0,Fisica,,4.5,2.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Ana,22.0,Ingeniería,2.0,3.0,4.0,Estudiante duplicado
+LUIS,,Fisica,4.0,3.0,5.0,Datos faltantes; Estudiante duplicado
+Ana,20.0,Física,3.5,5.0,2.0,Estudiante duplicado
+Carlos,20.0,Ingeniería,2.0,4.5,5.0,Estudiante duplicado
+Luis,23.0,fisica,3.5,2.5,5.0,Estudiante duplicado
+Ana,21.0,Ingeniería,3.5,5.0,4.0,Estudiante duplicado
+Carlos,19.0,Matemáticas,4.0,3.0,3.0,Estudiante duplicado
+Luis,19.0,fisica,3.5,3.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+,22.0,Ingeniería,3.5,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+,23.0,Física,4.0,4.5,4.0,Estudiante duplicado
+maria,18.0,Física,3.5,3.0,5.0,Estudiante duplicado
+Carlos,22.0,Matemáticas,3.5,4.5,2.0,Estudiante duplicado
+,23.0,Ingeniería,3.5,3.0,5.0,Estudiante duplicado
+Luis,21.0,,2.0,3.0,4.0,Estudiante duplicado
+maria,21.0,Matematicas,2.0,3.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Luis,21.0,Ingeniería,2.0,3.0,5.0,Estudiante duplicado
+maria,21.0,,4.0,2.5,,Datos faltantes; Nota3 inválida
+Carlos,21.0,Física,,5.0,2.0,Datos faltantes; Nota1 inválida
+Ana,23.0,Fisica,3.5,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Paula,23.0,Ingeniería,3.5,4.5,,Datos faltantes; Nota3 inválida
+JOSE,20.0,Matemáticas,4.0,3.0,3.0,Estudiante duplicado
+Ana,19.0,Ingeniería,3.5,2.5,3.0,Estudiante duplicado
+maria,,Ingeniería,2.0,4.5,3.0,Datos faltantes; Estudiante duplicado
+Luis,21.0,Ingeniería,,3.5,,Datos faltantes; Estudiante duplicado; Nota1 inválida; Nota3 inválida
+maria,18.0,Ingeniería,5.0,4.5,4.0,Estudiante duplicado
+Ana,,Física,3.5,4.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+maria,23.0,Física,2.0,3.0,4.0,Estudiante duplicado
+JOSE,18.0,Matematicas,5.0,3.5,4.0,Estudiante duplicado
+JOSE,18.0,Matematicas,,4.5,3.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Ana,18.0,Matematicas,5.0,2.5,5.0,Estudiante duplicado
+JOSE,20.0,Fisica,2.0,2.5,2.0,Estudiante duplicado
+Paula,23.0,fisica,5.0,5.0,3.0,Estudiante duplicado
+JOSE,18.0,Física,4.0,3.5,3.0,Estudiante duplicado
+Ana,21.0,fisica,5.0,3.5,5.0,Estudiante duplicado
+Ana,22.0,Ingeniería,3.5,5.0,2.0,Estudiante duplicado
+Ana,18.0,fisica,3.5,4.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Ana,20.0,Fisica,4.0,3.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+LUIS,,Ingeniería,2.0,2.5,3.0,Datos faltantes; Estudiante duplicado
+Ana,23.0,fisica,3.5,2.5,2.0,Estudiante duplicado
+Ana,20.0,Fisica,,3.0,3.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+LUIS,18.0,Física,3.5,3.5,4.0,Estudiante duplicado
+LUIS,23.0,fisica,3.5,4.5,3.0,Estudiante duplicado
+Ana,22.0,Fisica,2.0,5.0,3.0,Estudiante duplicado
+maria,18.0,Matematicas,5.0,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+maria,20.0,Física,3.5,4.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Paula,19.0,Matematicas,4.0,3.0,,Datos faltantes; Nota3 inválida
+maria,21.0,Física,5.0,5.0,4.0,Estudiante duplicado
+JOSE,,Matemáticas,,3.5,,Datos faltantes; Estudiante duplicado; Nota1 inválida; Nota3 inválida
+Paula,20.0,Matemáticas,2.0,3.0,2.0,Estudiante duplicado
+JOSE,23.0,Matemáticas,,3.5,5.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Ana,18.0,Física,5.0,2.5,2.0,Estudiante duplicado
+Paula,21.0,Fisica,4.0,4.5,3.0,Estudiante duplicado
+Carlos,19.0,Ingeniería,,4.5,,Datos faltantes; Estudiante duplicado; Nota1 inválida; Nota3 inválida
+Ana,18.0,Ingeniería,2.0,5.0,3.0,Estudiante duplicado
+maria,,,5.0,4.5,3.0,Datos faltantes
+Paula,,Fisica,2.0,5.0,3.0,Datos faltantes; Estudiante duplicado
+maria,23.0,Ingeniería,5.0,4.5,3.0,Estudiante duplicado
+LUIS,22.0,Matemáticas,2.0,3.5,4.0,Estudiante duplicado
+Paula,20.0,Matematicas,,4.5,2.0,Datos faltantes; Nota1 inválida
+Ana,21.0,Ingeniería,5.0,5.0,5.0,Estudiante duplicado
+maria,23.0,Ingeniería,4.0,3.0,3.0,Estudiante duplicado
+Carlos,20.0,Ingeniería,2.0,4.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Ana,20.0,fisica,2.0,3.0,3.0,Estudiante duplicado
+Ana,18.0,Ingeniería,5.0,3.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+LUIS,20.0,Ingeniería,4.0,2.5,4.0,Estudiante duplicado
+,22.0,Matemáticas,4.0,3.5,,Datos faltantes; Nota3 inválida
+maria,,Matemáticas,,4.5,5.0,Datos faltantes; Nota1 inválida
+Luis,23.0,Física,4.0,3.0,2.0,Estudiante duplicado
+Ana,20.0,Ingeniería,4.0,3.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+,18.0,Ingeniería,4.0,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Luis,22.0,Ingeniería,3.5,3.0,2.0,Estudiante duplicado
+maria,19.0,Ingeniería,,5.0,5.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Ana,,Matematicas,2.0,2.5,3.0,Datos faltantes; Estudiante duplicado
+maria,,Matemáticas,5.0,4.5,,Datos faltantes; Nota3 inválida
+,23.0,Ingeniería,2.0,5.0,2.0,Estudiante duplicado
+JOSE,,,,2.5,4.0,Datos faltantes; Nota1 inválida
+Ana,20.0,Física,5.0,3.0,2.0,Estudiante duplicado
+maria,18.0,Ingeniería,,3.0,4.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+LUIS,,Fisica,4.0,2.5,5.0,Datos faltantes; Estudiante duplicado
+Paula,,Ingeniería,5.0,3.0,3.0,Datos faltantes
+Carlos,19.0,fisica,4.0,2.5,2.0,Estudiante duplicado
+JOSE,19.0,Ingeniería,2.0,5.0,,Datos faltantes; Nota3 inválida
+LUIS,21.0,Física,2.0,5.0,5.0,Estudiante duplicado
+maria,22.0,fisica,5.0,2.5,2.0,Estudiante duplicado
+LUIS,20.0,Ingeniería,5.0,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Paula,,Fisica,,5.0,2.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+maria,,Matemáticas,,5.0,4.0,Datos faltantes; Nota1 inválida
+JOSE,18.0,Física,4.0,3.5,2.0,Estudiante duplicado
+Paula,21.0,Física,5.0,4.5,2.0,Estudiante duplicado
+Luis,22.0,Ingeniería,2.0,3.0,2.0,Estudiante duplicado
+Carlos,21.0,Física,,3.5,5.0,Datos faltantes; Nota1 inválida
+JOSE,23.0,Física,,5.0,2.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Luis,22.0,Matematicas,2.0,2.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+maria,,Fisica,,5.0,4.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+JOSE,,Fisica,4.0,4.5,4.0,Datos faltantes; Estudiante duplicado
+maria,22.0,Matematicas,5.0,5.0,2.0,Estudiante duplicado
+maria,,,2.0,2.5,5.0,Datos faltantes
+Luis,20.0,Matematicas,5.0,4.5,5.0,Estudiante duplicado
+Carlos,22.0,Matematicas,,5.0,,Datos faltantes; Nota1 inválida; Nota3 inválida
+Paula,21.0,Fisica,,4.5,2.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Ana,22.0,Ingeniería,2.0,3.0,4.0,Estudiante duplicado
+LUIS,,Fisica,4.0,3.0,5.0,Datos faltantes; Estudiante duplicado
+Ana,20.0,Física,3.5,5.0,2.0,Estudiante duplicado
+Carlos,20.0,Ingeniería,2.0,4.5,5.0,Estudiante duplicado
+Luis,23.0,fisica,3.5,2.5,5.0,Estudiante duplicado
+Ana,21.0,Ingeniería,3.5,5.0,4.0,Estudiante duplicado
+Carlos,19.0,Matemáticas,4.0,3.0,3.0,Estudiante duplicado
+Luis,19.0,fisica,3.5,3.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+,22.0,Ingeniería,3.5,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+,23.0,Física,4.0,4.5,4.0,Estudiante duplicado
+maria,18.0,Física,3.5,3.0,5.0,Estudiante duplicado
+Carlos,22.0,Matemáticas,3.5,4.5,2.0,Estudiante duplicado
+,23.0,Ingeniería,3.5,3.0,5.0,Estudiante duplicado
+Luis,21.0,,2.0,3.0,4.0,Estudiante duplicado
+maria,21.0,Matematicas,2.0,3.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Luis,21.0,Ingeniería,2.0,3.0,5.0,Estudiante duplicado
+maria,21.0,,4.0,2.5,,Datos faltantes; Nota3 inválida
+Carlos,21.0,Física,,5.0,2.0,Datos faltantes; Nota1 inválida
+Ana,23.0,Fisica,3.5,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Paula,23.0,Ingeniería,3.5,4.5,,Datos faltantes; Nota3 inválida
+JOSE,20.0,Matemáticas,4.0,3.0,3.0,Estudiante duplicado
+Ana,19.0,Ingeniería,3.5,2.5,3.0,Estudiante duplicado
+maria,,Ingeniería,2.0,4.5,3.0,Datos faltantes; Estudiante duplicado
+Luis,21.0,Ingeniería,,3.5,,Datos faltantes; Estudiante duplicado; Nota1 inválida; Nota3 inválida
+maria,18.0,Ingeniería,5.0,4.5,4.0,Estudiante duplicado
+Ana,,Física,3.5,4.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+maria,23.0,Física,2.0,3.0,4.0,Estudiante duplicado
+JOSE,18.0,Matematicas,5.0,3.5,4.0,Estudiante duplicado
+JOSE,18.0,Matematicas,,4.5,3.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Ana,18.0,Matematicas,5.0,2.5,5.0,Estudiante duplicado
+JOSE,20.0,Fisica,2.0,2.5,2.0,Estudiante duplicado
+Paula,23.0,fisica,5.0,5.0,3.0,Estudiante duplicado
+JOSE,18.0,Física,4.0,3.5,3.0,Estudiante duplicado
+Ana,21.0,fisica,5.0,3.5,5.0,Estudiante duplicado
+Ana,22.0,Ingeniería,3.5,5.0,2.0,Estudiante duplicado
+Ana,18.0,fisica,3.5,4.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Ana,20.0,Fisica,4.0,3.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+LUIS,,Ingeniería,2.0,2.5,3.0,Datos faltantes; Estudiante duplicado
+Ana,23.0,fisica,3.5,2.5,2.0,Estudiante duplicado
+Ana,20.0,Fisica,,3.0,3.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+LUIS,18.0,Física,3.5,3.5,4.0,Estudiante duplicado
+LUIS,23.0,fisica,3.5,4.5,3.0,Estudiante duplicado
+Ana,22.0,Fisica,2.0,5.0,3.0,Estudiante duplicado
+maria,18.0,Matematicas,5.0,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+maria,20.0,Física,3.5,4.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Paula,19.0,Matematicas,4.0,3.0,,Datos faltantes; Nota3 inválida
+maria,21.0,Física,5.0,5.0,4.0,Estudiante duplicado
+JOSE,,Matemáticas,,3.5,,Datos faltantes; Estudiante duplicado; Nota1 inválida; Nota3 inválida
+Paula,20.0,Matemáticas,2.0,3.0,2.0,Estudiante duplicado
+JOSE,23.0,Matemáticas,,3.5,5.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Ana,18.0,Física,5.0,2.5,2.0,Estudiante duplicado
+Paula,21.0,Fisica,4.0,4.5,3.0,Estudiante duplicado
+Carlos,19.0,Ingeniería,,4.5,,Datos faltantes; Estudiante duplicado; Nota1 inválida; Nota3 inválida
+Ana,18.0,Ingeniería,2.0,5.0,3.0,Estudiante duplicado
+maria,,,5.0,4.5,3.0,Datos faltantes
+Paula,,Fisica,2.0,5.0,3.0,Datos faltantes; Estudiante duplicado
+maria,23.0,Ingeniería,5.0,4.5,3.0,Estudiante duplicado
+LUIS,22.0,Matemáticas,2.0,3.5,4.0,Estudiante duplicado
+Paula,20.0,Matematicas,,4.5,2.0,Datos faltantes; Nota1 inválida
+Ana,21.0,Ingeniería,5.0,5.0,5.0,Estudiante duplicado
+maria,23.0,Ingeniería,4.0,3.0,3.0,Estudiante duplicado
+Carlos,20.0,Ingeniería,2.0,4.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Ana,20.0,fisica,2.0,3.0,3.0,Estudiante duplicado
+Ana,18.0,Ingeniería,5.0,3.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+LUIS,20.0,Ingeniería,4.0,2.5,4.0,Estudiante duplicado
+,22.0,Matemáticas,4.0,3.5,,Datos faltantes; Nota3 inválida
+maria,,Matemáticas,,4.5,5.0,Datos faltantes; Nota1 inválida
+Luis,23.0,Física,4.0,3.0,2.0,Estudiante duplicado
+Ana,20.0,Ingeniería,4.0,3.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+,18.0,Ingeniería,4.0,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Luis,22.0,Ingeniería,3.5,3.0,2.0,Estudiante duplicado
+maria,19.0,Ingeniería,,5.0,5.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Ana,,Matematicas,2.0,2.5,3.0,Datos faltantes; Estudiante duplicado
+maria,,Matemáticas,5.0,4.5,,Datos faltantes; Nota3 inválida
+,23.0,Ingeniería,2.0,5.0,2.0,Estudiante duplicado
+JOSE,,,,2.5,4.0,Datos faltantes; Nota1 inválida
+Ana,20.0,Física,5.0,3.0,2.0,Estudiante duplicado
+maria,18.0,Ingeniería,,3.0,4.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+LUIS,,Fisica,4.0,2.5,5.0,Datos faltantes; Estudiante duplicado
+Paula,,Ingeniería,5.0,3.0,3.0,Datos faltantes
+Carlos,19.0,fisica,4.0,2.5,2.0,Estudiante duplicado
+JOSE,19.0,Ingeniería,2.0,5.0,,Datos faltantes; Nota3 inválida
+LUIS,21.0,Física,2.0,5.0,5.0,Estudiante duplicado
+maria,22.0,fisica,5.0,2.5,2.0,Estudiante duplicado
+LUIS,20.0,Ingeniería,5.0,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Paula,,Fisica,,5.0,2.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+maria,,Matemáticas,,5.0,4.0,Datos faltantes; Nota1 inválida
+JOSE,18.0,Física,4.0,3.5,2.0,Estudiante duplicado
+Paula,21.0,Física,5.0,4.5,2.0,Estudiante duplicado
+Luis,22.0,Ingeniería,2.0,3.0,2.0,Estudiante duplicado
+Carlos,21.0,Física,,3.5,5.0,Datos faltantes; Nota1 inválida
+JOSE,23.0,Física,,5.0,2.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Luis,22.0,Matematicas,2.0,2.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+maria,,Fisica,,5.0,4.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+JOSE,,Fisica,4.0,4.5,4.0,Datos faltantes; Estudiante duplicado
+maria,22.0,Matematicas,5.0,5.0,2.0,Estudiante duplicado
+maria,,,2.0,2.5,5.0,Datos faltantes
+Luis,20.0,Matematicas,5.0,4.5,5.0,Estudiante duplicado
+Carlos,22.0,Matematicas,,5.0,,Datos faltantes; Nota1 inválida; Nota3 inválida
+Paula,21.0,Fisica,,4.5,2.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Ana,22.0,Ingeniería,2.0,3.0,4.0,Estudiante duplicado
+LUIS,,Fisica,4.0,3.0,5.0,Datos faltantes; Estudiante duplicado
+Ana,20.0,Física,3.5,5.0,2.0,Estudiante duplicado
+Carlos,20.0,Ingeniería,2.0,4.5,5.0,Estudiante duplicado
+Luis,23.0,fisica,3.5,2.5,5.0,Estudiante duplicado
+Ana,21.0,Ingeniería,3.5,5.0,4.0,Estudiante duplicado
+Carlos,19.0,Matemáticas,4.0,3.0,3.0,Estudiante duplicado
+Luis,19.0,fisica,3.5,3.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+,22.0,Ingeniería,3.5,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+,23.0,Física,4.0,4.5,4.0,Estudiante duplicado
+maria,18.0,Física,3.5,3.0,5.0,Estudiante duplicado
+Carlos,22.0,Matemáticas,3.5,4.5,2.0,Estudiante duplicado
+,23.0,Ingeniería,3.5,3.0,5.0,Estudiante duplicado
+Luis,21.0,,2.0,3.0,4.0,Estudiante duplicado
+maria,21.0,Matematicas,2.0,3.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Luis,21.0,Ingeniería,2.0,3.0,5.0,Estudiante duplicado
+maria,21.0,,4.0,2.5,,Datos faltantes; Nota3 inválida
+Carlos,21.0,Física,,5.0,2.0,Datos faltantes; Nota1 inválida
+Ana,23.0,Fisica,3.5,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Paula,23.0,Ingeniería,3.5,4.5,,Datos faltantes; Nota3 inválida
+JOSE,20.0,Matemáticas,4.0,3.0,3.0,Estudiante duplicado
+Ana,19.0,Ingeniería,3.5,2.5,3.0,Estudiante duplicado
+maria,,Ingeniería,2.0,4.5,3.0,Datos faltantes; Estudiante duplicado
+Luis,21.0,Ingeniería,,3.5,,Datos faltantes; Estudiante duplicado; Nota1 inválida; Nota3 inválida
+maria,18.0,Ingeniería,5.0,4.5,4.0,Estudiante duplicado
+Ana,,Física,3.5,4.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+maria,23.0,Física,2.0,3.0,4.0,Estudiante duplicado
+JOSE,18.0,Matematicas,5.0,3.5,4.0,Estudiante duplicado
+JOSE,18.0,Matematicas,,4.5,3.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Ana,18.0,Matematicas,5.0,2.5,5.0,Estudiante duplicado
+JOSE,20.0,Fisica,2.0,2.5,2.0,Estudiante duplicado
+Paula,23.0,fisica,5.0,5.0,3.0,Estudiante duplicado
+JOSE,18.0,Física,4.0,3.5,3.0,Estudiante duplicado
+Ana,21.0,fisica,5.0,3.5,5.0,Estudiante duplicado
+Ana,22.0,Ingeniería,3.5,5.0,2.0,Estudiante duplicado
+Ana,18.0,fisica,3.5,4.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Ana,20.0,Fisica,4.0,3.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+LUIS,,Ingeniería,2.0,2.5,3.0,Datos faltantes; Estudiante duplicado
+Ana,23.0,fisica,3.5,2.5,2.0,Estudiante duplicado
+Ana,20.0,Fisica,,3.0,3.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+LUIS,18.0,Física,3.5,3.5,4.0,Estudiante duplicado
+LUIS,23.0,fisica,3.5,4.5,3.0,Estudiante duplicado
+Ana,22.0,Fisica,2.0,5.0,3.0,Estudiante duplicado
+maria,18.0,Matematicas,5.0,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+maria,20.0,Física,3.5,4.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Paula,19.0,Matematicas,4.0,3.0,,Datos faltantes; Nota3 inválida
+maria,21.0,Física,5.0,5.0,4.0,Estudiante duplicado
+JOSE,,Matemáticas,,3.5,,Datos faltantes; Estudiante duplicado; Nota1 inválida; Nota3 inválida
+Paula,20.0,Matemáticas,2.0,3.0,2.0,Estudiante duplicado
+JOSE,23.0,Matemáticas,,3.5,5.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Ana,18.0,Física,5.0,2.5,2.0,Estudiante duplicado
+Paula,21.0,Fisica,4.0,4.5,3.0,Estudiante duplicado
+Carlos,19.0,Ingeniería,,4.5,,Datos faltantes; Estudiante duplicado; Nota1 inválida; Nota3 inválida
+Ana,18.0,Ingeniería,2.0,5.0,3.0,Estudiante duplicado
+maria,,,5.0,4.5,3.0,Datos faltantes
+Paula,,Fisica,2.0,5.0,3.0,Datos faltantes; Estudiante duplicado
+maria,23.0,Ingeniería,5.0,4.5,3.0,Estudiante duplicado
+LUIS,22.0,Matemáticas,2.0,3.5,4.0,Estudiante duplicado
+Paula,20.0,Matematicas,,4.5,2.0,Datos faltantes; Nota1 inválida
+Ana,21.0,Ingeniería,5.0,5.0,5.0,Estudiante duplicado
+maria,23.0,Ingeniería,4.0,3.0,3.0,Estudiante duplicado
+Carlos,20.0,Ingeniería,2.0,4.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Ana,20.0,fisica,2.0,3.0,3.0,Estudiante duplicado
+Ana,18.0,Ingeniería,5.0,3.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+LUIS,20.0,Ingeniería,4.0,2.5,4.0,Estudiante duplicado
+,22.0,Matemáticas,4.0,3.5,,Datos faltantes; Nota3 inválida
+maria,,Matemáticas,,4.5,5.0,Datos faltantes; Nota1 inválida
+Luis,23.0,Física,4.0,3.0,2.0,Estudiante duplicado
+Ana,20.0,Ingeniería,4.0,3.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+,18.0,Ingeniería,4.0,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Luis,22.0,Ingeniería,3.5,3.0,2.0,Estudiante duplicado
+maria,19.0,Ingeniería,,5.0,5.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Ana,,Matematicas,2.0,2.5,3.0,Datos faltantes; Estudiante duplicado
+maria,,Matemáticas,5.0,4.5,,Datos faltantes; Nota3 inválida
+,23.0,Ingeniería,2.0,5.0,2.0,Estudiante duplicado
+JOSE,,,,2.5,4.0,Datos faltantes; Nota1 inválida
+Ana,20.0,Física,5.0,3.0,2.0,Estudiante duplicado
+maria,18.0,Ingeniería,,3.0,4.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+LUIS,,Fisica,4.0,2.5,5.0,Datos faltantes; Estudiante duplicado
+Paula,,Ingeniería,5.0,3.0,3.0,Datos faltantes
+Carlos,19.0,fisica,4.0,2.5,2.0,Estudiante duplicado
+JOSE,19.0,Ingeniería,2.0,5.0,,Datos faltantes; Nota3 inválida
+LUIS,21.0,Física,2.0,5.0,5.0,Estudiante duplicado
+maria,22.0,fisica,5.0,2.5,2.0,Estudiante duplicado
+LUIS,20.0,Ingeniería,5.0,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Paula,,Fisica,,5.0,2.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+maria,,Matemáticas,,5.0,4.0,Datos faltantes; Nota1 inválida
+JOSE,18.0,Física,4.0,3.5,2.0,Estudiante duplicado
+Paula,21.0,Física,5.0,4.5,2.0,Estudiante duplicado
+Luis,22.0,Ingeniería,2.0,3.0,2.0,Estudiante duplicado
+Carlos,21.0,Física,,3.5,5.0,Datos faltantes; Nota1 inválida
+JOSE,23.0,Física,,5.0,2.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Luis,22.0,Matematicas,2.0,2.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+maria,,Fisica,,5.0,4.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+JOSE,,Fisica,4.0,4.5,4.0,Datos faltantes; Estudiante duplicado
+maria,22.0,Matematicas,5.0,5.0,2.0,Estudiante duplicado
+maria,,,2.0,2.5,5.0,Datos faltantes
+Luis,20.0,Matematicas,5.0,4.5,5.0,Estudiante duplicado
+Carlos,22.0,Matematicas,,5.0,,Datos faltantes; Nota1 inválida; Nota3 inválida
+Paula,21.0,Fisica,,4.5,2.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Ana,22.0,Ingeniería,2.0,3.0,4.0,Estudiante duplicado
+LUIS,,Fisica,4.0,3.0,5.0,Datos faltantes; Estudiante duplicado
+Ana,20.0,Física,3.5,5.0,2.0,Estudiante duplicado
+Carlos,20.0,Ingeniería,2.0,4.5,5.0,Estudiante duplicado
+Luis,23.0,fisica,3.5,2.5,5.0,Estudiante duplicado
+Ana,21.0,Ingeniería,3.5,5.0,4.0,Estudiante duplicado
+Carlos,19.0,Matemáticas,4.0,3.0,3.0,Estudiante duplicado
+Luis,19.0,fisica,3.5,3.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+,22.0,Ingeniería,3.5,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+,23.0,Física,4.0,4.5,4.0,Estudiante duplicado
+maria,18.0,Física,3.5,3.0,5.0,Estudiante duplicado
+Carlos,22.0,Matemáticas,3.5,4.5,2.0,Estudiante duplicado
+,23.0,Ingeniería,3.5,3.0,5.0,Estudiante duplicado
+Luis,21.0,,2.0,3.0,4.0,Estudiante duplicado
+maria,21.0,Matematicas,2.0,3.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Luis,21.0,Ingeniería,2.0,3.0,5.0,Estudiante duplicado
+maria,21.0,,4.0,2.5,,Datos faltantes; Nota3 inválida
+Carlos,21.0,Física,,5.0,2.0,Datos faltantes; Nota1 inválida
+Ana,23.0,Fisica,3.5,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Paula,23.0,Ingeniería,3.5,4.5,,Datos faltantes; Nota3 inválida
+JOSE,20.0,Matemáticas,4.0,3.0,3.0,Estudiante duplicado
+Ana,19.0,Ingeniería,3.5,2.5,3.0,Estudiante duplicado
+maria,,Ingeniería,2.0,4.5,3.0,Datos faltantes; Estudiante duplicado
+Luis,21.0,Ingeniería,,3.5,,Datos faltantes; Estudiante duplicado; Nota1 inválida; Nota3 inválida
+maria,18.0,Ingeniería,5.0,4.5,4.0,Estudiante duplicado
+Ana,,Física,3.5,4.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+maria,23.0,Física,2.0,3.0,4.0,Estudiante duplicado
+JOSE,18.0,Matematicas,5.0,3.5,4.0,Estudiante duplicado
+JOSE,18.0,Matematicas,,4.5,3.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Ana,18.0,Matematicas,5.0,2.5,5.0,Estudiante duplicado
+JOSE,20.0,Fisica,2.0,2.5,2.0,Estudiante duplicado
+Paula,23.0,fisica,5.0,5.0,3.0,Estudiante duplicado
+JOSE,18.0,Física,4.0,3.5,3.0,Estudiante duplicado
+Ana,21.0,fisica,5.0,3.5,5.0,Estudiante duplicado
+Ana,22.0,Ingeniería,3.5,5.0,2.0,Estudiante duplicado
+Ana,18.0,fisica,3.5,4.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Ana,20.0,Fisica,4.0,3.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+LUIS,,Ingeniería,2.0,2.5,3.0,Datos faltantes; Estudiante duplicado
+Ana,23.0,fisica,3.5,2.5,2.0,Estudiante duplicado
+Ana,20.0,Fisica,,3.0,3.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+LUIS,18.0,Física,3.5,3.5,4.0,Estudiante duplicado
+LUIS,23.0,fisica,3.5,4.5,3.0,Estudiante duplicado
+Ana,22.0,Fisica,2.0,5.0,3.0,Estudiante duplicado
+maria,18.0,Matematicas,5.0,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+maria,20.0,Física,3.5,4.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Paula,19.0,Matematicas,4.0,3.0,,Datos faltantes; Nota3 inválida
+maria,21.0,Física,5.0,5.0,4.0,Estudiante duplicado
+JOSE,,Matemáticas,,3.5,,Datos faltantes; Estudiante duplicado; Nota1 inválida; Nota3 inválida
+Paula,20.0,Matemáticas,2.0,3.0,2.0,Estudiante duplicado
+JOSE,23.0,Matemáticas,,3.5,5.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Ana,18.0,Física,5.0,2.5,2.0,Estudiante duplicado
+Paula,21.0,Fisica,4.0,4.5,3.0,Estudiante duplicado
+Carlos,19.0,Ingeniería,,4.5,,Datos faltantes; Estudiante duplicado; Nota1 inválida; Nota3 inválida
+Ana,18.0,Ingeniería,2.0,5.0,3.0,Estudiante duplicado
+maria,,,5.0,4.5,3.0,Datos faltantes
+Paula,,Fisica,2.0,5.0,3.0,Datos faltantes; Estudiante duplicado
+maria,23.0,Ingeniería,5.0,4.5,3.0,Estudiante duplicado
+LUIS,22.0,Matemáticas,2.0,3.5,4.0,Estudiante duplicado
+Paula,20.0,Matematicas,,4.5,2.0,Datos faltantes; Nota1 inválida
+Ana,21.0,Ingeniería,5.0,5.0,5.0,Estudiante duplicado
+maria,23.0,Ingeniería,4.0,3.0,3.0,Estudiante duplicado
+Carlos,20.0,Ingeniería,2.0,4.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Ana,20.0,fisica,2.0,3.0,3.0,Estudiante duplicado
+Ana,18.0,Ingeniería,5.0,3.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+LUIS,20.0,Ingeniería,4.0,2.5,4.0,Estudiante duplicado
+,22.0,Matemáticas,4.0,3.5,,Datos faltantes; Nota3 inválida
+maria,,Matemáticas,,4.5,5.0,Datos faltantes; Nota1 inválida
+Luis,23.0,Física,4.0,3.0,2.0,Estudiante duplicado
+Ana,20.0,Ingeniería,4.0,3.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+,18.0,Ingeniería,4.0,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Luis,22.0,Ingeniería,3.5,3.0,2.0,Estudiante duplicado
+maria,19.0,Ingeniería,,5.0,5.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Ana,,Matematicas,2.0,2.5,3.0,Datos faltantes; Estudiante duplicado
+maria,,Matemáticas,5.0,4.5,,Datos faltantes; Nota3 inválida
+,23.0,Ingeniería,2.0,5.0,2.0,Estudiante duplicado
+JOSE,,,,2.5,4.0,Datos faltantes; Nota1 inválida
+Ana,20.0,Física,5.0,3.0,2.0,Estudiante duplicado
+maria,18.0,Ingeniería,,3.0,4.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+LUIS,,Fisica,4.0,2.5,5.0,Datos faltantes; Estudiante duplicado
+Paula,,Ingeniería,5.0,3.0,3.0,Datos faltantes
+Carlos,19.0,fisica,4.0,2.5,2.0,Estudiante duplicado
+JOSE,19.0,Ingeniería,2.0,5.0,,Datos faltantes; Nota3 inválida
+LUIS,21.0,Física,2.0,5.0,5.0,Estudiante duplicado
+maria,22.0,fisica,5.0,2.5,2.0,Estudiante duplicado
+LUIS,20.0,Ingeniería,5.0,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Paula,,Fisica,,5.0,2.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+maria,,Matemáticas,,5.0,4.0,Datos faltantes; Nota1 inválida
+JOSE,18.0,Física,4.0,3.5,2.0,Estudiante duplicado
+Paula,21.0,Física,5.0,4.5,2.0,Estudiante duplicado
+Luis,22.0,Ingeniería,2.0,3.0,2.0,Estudiante duplicado
+Carlos,21.0,Física,,3.5,5.0,Datos faltantes; Nota1 inválida
+JOSE,23.0,Física,,5.0,2.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Luis,22.0,Matematicas,2.0,2.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+maria,,Fisica,,5.0,4.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+JOSE,,Fisica,4.0,4.5,4.0,Datos faltantes; Estudiante duplicado
+maria,22.0,Matematicas,5.0,5.0,2.0,Estudiante duplicado
+maria,,,2.0,2.5,5.0,Datos faltantes
+Luis,20.0,Matematicas,5.0,4.5,5.0,Estudiante duplicado
+Carlos,22.0,Matematicas,,5.0,,Datos faltantes; Nota1 inválida; Nota3 inválida
+Paula,21.0,Fisica,,4.5,2.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Ana,22.0,Ingeniería,2.0,3.0,4.0,Estudiante duplicado
+LUIS,,Fisica,4.0,3.0,5.0,Datos faltantes; Estudiante duplicado
+Ana,20.0,Física,3.5,5.0,2.0,Estudiante duplicado
+Carlos,20.0,Ingeniería,2.0,4.5,5.0,Estudiante duplicado
+Luis,23.0,fisica,3.5,2.5,5.0,Estudiante duplicado
+Ana,21.0,Ingeniería,3.5,5.0,4.0,Estudiante duplicado
+Carlos,19.0,Matemáticas,4.0,3.0,3.0,Estudiante duplicado
+Luis,19.0,fisica,3.5,3.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+,22.0,Ingeniería,3.5,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+,23.0,Física,4.0,4.5,4.0,Estudiante duplicado
+maria,18.0,Física,3.5,3.0,5.0,Estudiante duplicado
+Carlos,22.0,Matemáticas,3.5,4.5,2.0,Estudiante duplicado
+,23.0,Ingeniería,3.5,3.0,5.0,Estudiante duplicado
+Luis,21.0,,2.0,3.0,4.0,Estudiante duplicado
+maria,21.0,Matematicas,2.0,3.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Luis,21.0,Ingeniería,2.0,3.0,5.0,Estudiante duplicado
+maria,21.0,,4.0,2.5,,Datos faltantes; Nota3 inválida
+Carlos,21.0,Física,,5.0,2.0,Datos faltantes; Nota1 inválida
+Ana,23.0,Fisica,3.5,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Paula,23.0,Ingeniería,3.5,4.5,,Datos faltantes; Nota3 inválida
+JOSE,20.0,Matemáticas,4.0,3.0,3.0,Estudiante duplicado
+Ana,19.0,Ingeniería,3.5,2.5,3.0,Estudiante duplicado
+maria,,Ingeniería,2.0,4.5,3.0,Datos faltantes; Estudiante duplicado
+Luis,21.0,Ingeniería,,3.5,,Datos faltantes; Estudiante duplicado; Nota1 inválida; Nota3 inválida
+maria,18.0,Ingeniería,5.0,4.5,4.0,Estudiante duplicado
+Ana,,Física,3.5,4.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+maria,23.0,Física,2.0,3.0,4.0,Estudiante duplicado
+JOSE,18.0,Matematicas,5.0,3.5,4.0,Estudiante duplicado
+JOSE,18.0,Matematicas,,4.5,3.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Ana,18.0,Matematicas,5.0,2.5,5.0,Estudiante duplicado
+JOSE,20.0,Fisica,2.0,2.5,2.0,Estudiante duplicado
+Paula,23.0,fisica,5.0,5.0,3.0,Estudiante duplicado
+JOSE,18.0,Física,4.0,3.5,3.0,Estudiante duplicado
+Ana,21.0,fisica,5.0,3.5,5.0,Estudiante duplicado
+Ana,22.0,Ingeniería,3.5,5.0,2.0,Estudiante duplicado
+Ana,18.0,fisica,3.5,4.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Ana,20.0,Fisica,4.0,3.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+LUIS,,Ingeniería,2.0,2.5,3.0,Datos faltantes; Estudiante duplicado
+Ana,23.0,fisica,3.5,2.5,2.0,Estudiante duplicado
+Ana,20.0,Fisica,,3.0,3.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+LUIS,18.0,Física,3.5,3.5,4.0,Estudiante duplicado
+LUIS,23.0,fisica,3.5,4.5,3.0,Estudiante duplicado
+Ana,22.0,Fisica,2.0,5.0,3.0,Estudiante duplicado
+maria,18.0,Matematicas,5.0,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+maria,20.0,Física,3.5,4.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Paula,19.0,Matematicas,4.0,3.0,,Datos faltantes; Nota3 inválida
+maria,21.0,Física,5.0,5.0,4.0,Estudiante duplicado
+JOSE,,Matemáticas,,3.5,,Datos faltantes; Estudiante duplicado; Nota1 inválida; Nota3 inválida
+Paula,20.0,Matemáticas,2.0,3.0,2.0,Estudiante duplicado
+JOSE,23.0,Matemáticas,,3.5,5.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Ana,18.0,Física,5.0,2.5,2.0,Estudiante duplicado
+Paula,21.0,Fisica,4.0,4.5,3.0,Estudiante duplicado
+Carlos,19.0,Ingeniería,,4.5,,Datos faltantes; Estudiante duplicado; Nota1 inválida; Nota3 inválida
+Ana,18.0,Ingeniería,2.0,5.0,3.0,Estudiante duplicado
+maria,,,5.0,4.5,3.0,Datos faltantes
+Paula,,Fisica,2.0,5.0,3.0,Datos faltantes; Estudiante duplicado
+maria,23.0,Ingeniería,5.0,4.5,3.0,Estudiante duplicado
+LUIS,22.0,Matemáticas,2.0,3.5,4.0,Estudiante duplicado
+Paula,20.0,Matematicas,,4.5,2.0,Datos faltantes; Nota1 inválida
+Ana,21.0,Ingeniería,5.0,5.0,5.0,Estudiante duplicado
+maria,23.0,Ingeniería,4.0,3.0,3.0,Estudiante duplicado
+Carlos,20.0,Ingeniería,2.0,4.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Ana,20.0,fisica,2.0,3.0,3.0,Estudiante duplicado
+Ana,18.0,Ingeniería,5.0,3.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+LUIS,20.0,Ingeniería,4.0,2.5,4.0,Estudiante duplicado
+,22.0,Matemáticas,4.0,3.5,,Datos faltantes; Nota3 inválida
+maria,,Matemáticas,,4.5,5.0,Datos faltantes; Nota1 inválida
+Luis,23.0,Física,4.0,3.0,2.0,Estudiante duplicado
+Ana,20.0,Ingeniería,4.0,3.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+,18.0,Ingeniería,4.0,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Luis,22.0,Ingeniería,3.5,3.0,2.0,Estudiante duplicado
+maria,19.0,Ingeniería,,5.0,5.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Ana,,Matematicas,2.0,2.5,3.0,Datos faltantes; Estudiante duplicado
+maria,,Matemáticas,5.0,4.5,,Datos faltantes; Nota3 inválida
+,23.0,Ingeniería,2.0,5.0,2.0,Estudiante duplicado
+JOSE,,,,2.5,4.0,Datos faltantes; Nota1 inválida
+Ana,20.0,Física,5.0,3.0,2.0,Estudiante duplicado
+maria,18.0,Ingeniería,,3.0,4.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+LUIS,,Fisica,4.0,2.5,5.0,Datos faltantes; Estudiante duplicado
+Paula,,Ingeniería,5.0,3.0,3.0,Datos faltantes
+Carlos,19.0,fisica,4.0,2.5,2.0,Estudiante duplicado
+JOSE,19.0,Ingeniería,2.0,5.0,,Datos faltantes; Nota3 inválida
+LUIS,21.0,Física,2.0,5.0,5.0,Estudiante duplicado
+maria,22.0,fisica,5.0,2.5,2.0,Estudiante duplicado
+LUIS,20.0,Ingeniería,5.0,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Paula,,Fisica,,5.0,2.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+maria,,Matemáticas,,5.0,4.0,Datos faltantes; Nota1 inválida
+JOSE,18.0,Física,4.0,3.5,2.0,Estudiante duplicado
+Paula,21.0,Física,5.0,4.5,2.0,Estudiante duplicado
+Luis,22.0,Ingeniería,2.0,3.0,2.0,Estudiante duplicado
+Carlos,21.0,Física,,3.5,5.0,Datos faltantes; Nota1 inválida
+JOSE,23.0,Física,,5.0,2.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Luis,22.0,Matematicas,2.0,2.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+maria,,Fisica,,5.0,4.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+JOSE,,Fisica,4.0,4.5,4.0,Datos faltantes; Estudiante duplicado
+maria,22.0,Matematicas,5.0,5.0,2.0,Estudiante duplicado
+maria,,,2.0,2.5,5.0,Datos faltantes
+Luis,20.0,Matematicas,5.0,4.5,5.0,Estudiante duplicado
+Carlos,22.0,Matematicas,,5.0,,Datos faltantes; Nota1 inválida; Nota3 inválida
+Paula,21.0,Fisica,,4.5,2.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Ana,22.0,Ingeniería,2.0,3.0,4.0,Estudiante duplicado
+LUIS,,Fisica,4.0,3.0,5.0,Datos faltantes; Estudiante duplicado
+Ana,20.0,Física,3.5,5.0,2.0,Estudiante duplicado
+Carlos,20.0,Ingeniería,2.0,4.5,5.0,Estudiante duplicado
+Luis,23.0,fisica,3.5,2.5,5.0,Estudiante duplicado
+Ana,21.0,Ingeniería,3.5,5.0,4.0,Estudiante duplicado
+Carlos,19.0,Matemáticas,4.0,3.0,3.0,Estudiante duplicado
+Luis,19.0,fisica,3.5,3.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+,22.0,Ingeniería,3.5,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+,23.0,Física,4.0,4.5,4.0,Estudiante duplicado
+maria,18.0,Física,3.5,3.0,5.0,Estudiante duplicado
+Carlos,22.0,Matemáticas,3.5,4.5,2.0,Estudiante duplicado
+,23.0,Ingeniería,3.5,3.0,5.0,Estudiante duplicado
+Luis,21.0,,2.0,3.0,4.0,Estudiante duplicado
+maria,21.0,Matematicas,2.0,3.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Luis,21.0,Ingeniería,2.0,3.0,5.0,Estudiante duplicado
+maria,21.0,,4.0,2.5,,Datos faltantes; Nota3 inválida
+Carlos,21.0,Física,,5.0,2.0,Datos faltantes; Nota1 inválida
+Ana,23.0,Fisica,3.5,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Paula,23.0,Ingeniería,3.5,4.5,,Datos faltantes; Nota3 inválida
+JOSE,20.0,Matemáticas,4.0,3.0,3.0,Estudiante duplicado
+Ana,19.0,Ingeniería,3.5,2.5,3.0,Estudiante duplicado
+maria,,Ingeniería,2.0,4.5,3.0,Datos faltantes; Estudiante duplicado
+Luis,21.0,Ingeniería,,3.5,,Datos faltantes; Estudiante duplicado; Nota1 inválida; Nota3 inválida
+maria,18.0,Ingeniería,5.0,4.5,4.0,Estudiante duplicado
+Ana,,Física,3.5,4.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+maria,23.0,Física,2.0,3.0,4.0,Estudiante duplicado
+JOSE,18.0,Matematicas,5.0,3.5,4.0,Estudiante duplicado
+JOSE,18.0,Matematicas,,4.5,3.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Ana,18.0,Matematicas,5.0,2.5,5.0,Estudiante duplicado
+JOSE,20.0,Fisica,2.0,2.5,2.0,Estudiante duplicado
+Paula,23.0,fisica,5.0,5.0,3.0,Estudiante duplicado
+JOSE,18.0,Física,4.0,3.5,3.0,Estudiante duplicado
+Ana,21.0,fisica,5.0,3.5,5.0,Estudiante duplicado
+Ana,22.0,Ingeniería,3.5,5.0,2.0,Estudiante duplicado
+Ana,18.0,fisica,3.5,4.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Ana,20.0,Fisica,4.0,3.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+LUIS,,Ingeniería,2.0,2.5,3.0,Datos faltantes; Estudiante duplicado
+Ana,23.0,fisica,3.5,2.5,2.0,Estudiante duplicado
+Ana,20.0,Fisica,,3.0,3.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+LUIS,18.0,Física,3.5,3.5,4.0,Estudiante duplicado
+LUIS,23.0,fisica,3.5,4.5,3.0,Estudiante duplicado
+Ana,22.0,Fisica,2.0,5.0,3.0,Estudiante duplicado
+maria,18.0,Matematicas,5.0,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+maria,20.0,Física,3.5,4.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Paula,19.0,Matematicas,4.0,3.0,,Datos faltantes; Nota3 inválida
+maria,21.0,Física,5.0,5.0,4.0,Estudiante duplicado
+JOSE,,Matemáticas,,3.5,,Datos faltantes; Estudiante duplicado; Nota1 inválida; Nota3 inválida
+Paula,20.0,Matemáticas,2.0,3.0,2.0,Estudiante duplicado
+JOSE,23.0,Matemáticas,,3.5,5.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Ana,18.0,Física,5.0,2.5,2.0,Estudiante duplicado
+Paula,21.0,Fisica,4.0,4.5,3.0,Estudiante duplicado
+Carlos,19.0,Ingeniería,,4.5,,Datos faltantes; Estudiante duplicado; Nota1 inválida; Nota3 inválida
+Ana,18.0,Ingeniería,2.0,5.0,3.0,Estudiante duplicado
+maria,,nan,5.0,4.5,3.0,Datos faltantes
+Paula,,Fisica,2.0,5.0,3.0,Datos faltantes; Estudiante duplicado
+maria,23.0,Ingeniería,5.0,4.5,3.0,Estudiante duplicado
+LUIS,22.0,Matemáticas,2.0,3.5,4.0,Estudiante duplicado
+Paula,20.0,Matematicas,,4.5,2.0,Datos faltantes; Nota1 inválida
+Ana,21.0,Ingeniería,5.0,5.0,5.0,Estudiante duplicado
+maria,23.0,Ingeniería,4.0,3.0,3.0,Estudiante duplicado
+Carlos,20.0,Ingeniería,2.0,4.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Ana,20.0,fisica,2.0,3.0,3.0,Estudiante duplicado
+Ana,18.0,Ingeniería,5.0,3.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+LUIS,20.0,Ingeniería,4.0,2.5,4.0,Estudiante duplicado
+nan,22.0,Matemáticas,4.0,3.5,,Datos faltantes; Nota3 inválida
+maria,,Matemáticas,,4.5,5.0,Datos faltantes; Nota1 inválida
+Luis,23.0,Física,4.0,3.0,2.0,Estudiante duplicado
+Ana,20.0,Ingeniería,4.0,3.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+nan,18.0,Ingeniería,4.0,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Luis,22.0,Ingeniería,3.5,3.0,2.0,Estudiante duplicado
+maria,19.0,Ingeniería,,5.0,5.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Ana,,Matematicas,2.0,2.5,3.0,Datos faltantes; Estudiante duplicado
+maria,,Matemáticas,5.0,4.5,,Datos faltantes; Nota3 inválida
+nan,23.0,Ingeniería,2.0,5.0,2.0,Estudiante duplicado
+JOSE,,nan,,2.5,4.0,Datos faltantes; Nota1 inválida
+Ana,20.0,Física,5.0,3.0,2.0,Estudiante duplicado
+maria,18.0,Ingeniería,,3.0,4.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+LUIS,,Fisica,4.0,2.5,5.0,Datos faltantes; Estudiante duplicado
+Paula,,Ingeniería,5.0,3.0,3.0,Datos faltantes
+Carlos,19.0,fisica,4.0,2.5,2.0,Estudiante duplicado
+JOSE,19.0,Ingeniería,2.0,5.0,,Datos faltantes; Nota3 inválida
+LUIS,21.0,Física,2.0,5.0,5.0,Estudiante duplicado
+maria,22.0,fisica,5.0,2.5,2.0,Estudiante duplicado
+LUIS,20.0,Ingeniería,5.0,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Paula,,Fisica,,5.0,2.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+maria,,Matemáticas,,5.0,4.0,Datos faltantes; Nota1 inválida
+JOSE,18.0,Física,4.0,3.5,2.0,Estudiante duplicado
+Paula,21.0,Física,5.0,4.5,2.0,Estudiante duplicado
+Luis,22.0,Ingeniería,2.0,3.0,2.0,Estudiante duplicado
+Carlos,21.0,Física,,3.5,5.0,Datos faltantes; Nota1 inválida
+JOSE,23.0,Física,,5.0,2.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Luis,22.0,Matematicas,2.0,2.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+maria,,Fisica,,5.0,4.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+JOSE,,Fisica,4.0,4.5,4.0,Datos faltantes; Estudiante duplicado
+maria,22.0,Matematicas,5.0,5.0,2.0,Estudiante duplicado
+maria,,nan,2.0,2.5,5.0,Datos faltantes
+Luis,20.0,Matematicas,5.0,4.5,5.0,Estudiante duplicado
+Carlos,22.0,Matematicas,,5.0,,Datos faltantes; Nota1 inválida; Nota3 inválida
+Paula,21.0,Fisica,,4.5,2.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Ana,22.0,Ingeniería,2.0,3.0,4.0,Estudiante duplicado
+LUIS,,Fisica,4.0,3.0,5.0,Datos faltantes; Estudiante duplicado
+Ana,20.0,Física,3.5,5.0,2.0,Estudiante duplicado
+Carlos,20.0,Ingeniería,2.0,4.5,5.0,Estudiante duplicado
+Luis,23.0,fisica,3.5,2.5,5.0,Estudiante duplicado
+Ana,21.0,Ingeniería,3.5,5.0,4.0,Estudiante duplicado
+Carlos,19.0,Matemáticas,4.0,3.0,3.0,Estudiante duplicado
+Luis,19.0,fisica,3.5,3.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+nan,22.0,Ingeniería,3.5,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+nan,23.0,Física,4.0,4.5,4.0,Estudiante duplicado
+maria,18.0,Física,3.5,3.0,5.0,Estudiante duplicado
+Carlos,22.0,Matemáticas,3.5,4.5,2.0,Estudiante duplicado
+nan,23.0,Ingeniería,3.5,3.0,5.0,Estudiante duplicado
+Luis,21.0,nan,2.0,3.0,4.0,Estudiante duplicado
+maria,21.0,Matematicas,2.0,3.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Luis,21.0,Ingeniería,2.0,3.0,5.0,Estudiante duplicado
+maria,21.0,nan,4.0,2.5,,Datos faltantes; Nota3 inválida
+Carlos,21.0,Física,,5.0,2.0,Datos faltantes; Nota1 inválida
+Ana,23.0,Fisica,3.5,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Paula,23.0,Ingeniería,3.5,4.5,,Datos faltantes; Nota3 inválida
+JOSE,20.0,Matemáticas,4.0,3.0,3.0,Estudiante duplicado
+Ana,19.0,Ingeniería,3.5,2.5,3.0,Estudiante duplicado
+maria,,Ingeniería,2.0,4.5,3.0,Datos faltantes; Estudiante duplicado
+Luis,21.0,Ingeniería,,3.5,,Datos faltantes; Estudiante duplicado; Nota1 inválida; Nota3 inválida
+maria,18.0,Ingeniería,5.0,4.5,4.0,Estudiante duplicado
+Ana,,Física,3.5,4.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+maria,23.0,Física,2.0,3.0,4.0,Estudiante duplicado
+JOSE,18.0,Matematicas,5.0,3.5,4.0,Estudiante duplicado
+JOSE,18.0,Matematicas,,4.5,3.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Ana,18.0,Matematicas,5.0,2.5,5.0,Estudiante duplicado
+JOSE,20.0,Fisica,2.0,2.5,2.0,Estudiante duplicado
+Paula,23.0,fisica,5.0,5.0,3.0,Estudiante duplicado
+JOSE,18.0,Física,4.0,3.5,3.0,Estudiante duplicado
+Ana,21.0,fisica,5.0,3.5,5.0,Estudiante duplicado
+Ana,22.0,Ingeniería,3.5,5.0,2.0,Estudiante duplicado
+Ana,18.0,fisica,3.5,4.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Ana,20.0,Fisica,4.0,3.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+LUIS,,Ingeniería,2.0,2.5,3.0,Datos faltantes; Estudiante duplicado
+Ana,23.0,fisica,3.5,2.5,2.0,Estudiante duplicado
+Ana,20.0,Fisica,,3.0,3.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+LUIS,18.0,Física,3.5,3.5,4.0,Estudiante duplicado
+LUIS,23.0,fisica,3.5,4.5,3.0,Estudiante duplicado
+Ana,22.0,Fisica,2.0,5.0,3.0,Estudiante duplicado
+maria,18.0,Matematicas,5.0,5.0,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+maria,20.0,Física,3.5,4.5,,Datos faltantes; Estudiante duplicado; Nota3 inválida
+Paula,19.0,Matematicas,4.0,3.0,,Datos faltantes; Nota3 inválida
+maria,21.0,Física,5.0,5.0,4.0,Estudiante duplicado
+JOSE,,Matemáticas,,3.5,,Datos faltantes; Estudiante duplicado; Nota1 inválida; Nota3 inválida
+Paula,20.0,Matemáticas,2.0,3.0,2.0,Estudiante duplicado
+JOSE,23.0,Matemáticas,,3.5,5.0,Datos faltantes; Estudiante duplicado; Nota1 inválida
+Ana,18.0,Física,5.0,2.5,2.0,Estudiante duplicado

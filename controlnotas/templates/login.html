@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Inicio de sesion</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<style>
+    :root {
+        --purple-main: #b888f8;
+        --purple-dark: #8f42d9;
+    }
+    body { font-family: 'Poppins', sans-serif; background-color: #f6f4ff; margin: 0; padding: 0; }
+    .page { min-height: 100vh; display: flex; justify-content: center; align-items: center; }
+    .card { background-color: #ffffff; border-radius: 12px; padding: 24px; max-width: 480px; width: 100%; box-shadow: 0 10px 25px rgba(0,0,0,0.08); }
+    .form-header h2 { color: var(--purple-main); margin: 0 0 18px; }
+    .form-wrap label { color: #2f2f44; font-weight: 600; }
+    .field input { width: 90%; padding: 9px 12px; border: 1px solid #d7d3ea; border-radius: 8px; margin-top: 5px; }
+    .actions { display: flex; gap: 10px; align-items: center; margin-top: 16px; }
+    .primary-btn { display: inline-block; background-color: var(--purple-main); color: #fff; border: none; border-radius: 10px; padding: 10px 15px; text-decoration: none; font-weight: bold; cursor: pointer; transition: all .2s ease; font-size: 15px; }
+    .primary-btn:hover { background-color: var(--purple-dark); }
+    .alert { background-color: #fde2f7; color: #7a1e69; border: 1px solid #f7a2e5; padding: 8px 12px; border-radius: 8px; margin-bottom: 12px; }
+</style>
+</head>
+<body>
+<main class="page">
+    <section class="card">
+        <aside class="hero">
+        </aside>
+        <div class="form-wrap">
+            <div class="form-header">
+                <h2>Iniciar sesion</h2>
+            </div>
+
+            {% if error %}
+            <div class="alert">{{ error }}</div>
+            {% endif %}
+
+            <form action="/" method="POST">
+                <div class="field">
+                    <label for="nombre">Usuario</label>
+                    <input type="text" id="nombre" name="nombre" required>
+                </div>
+                <div class="field">
+                    <label for="password">Contraseña</label>
+                    <input type="password" id="password" name="password" required>
+                </div>
+
+                <div class="actions">
+                    <button type="submit" class="primary-btn">Entrar</button>
+                </div>
+            </form>
+        </div>
+    </section>
+</main>
+</body>
+</html>

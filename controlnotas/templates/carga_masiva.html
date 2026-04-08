@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+    <title>Carga masiva de estudiantes</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+        :root {
+            --purple-main: #b888f8;
+            --purple-dark: #8f42d9;
+        }
+        body { font-family: 'Poppins', sans-serif; background-color: #f6f4ff; margin: 0; padding: 0; }
+        .page { min-height: 100vh; display: flex; justify-content: center; align-items: center; }
+        .card { background-color: #ffffff; border-radius: 12px; padding: 24px; max-width: 700px; width: 100%;  margin-left: 30%; margin-top: 10%; justify-content: center; align-items: center; box-shadow: 0 10px 25px rgba(0,0,0,0.08); }
+        h1 { color: #2c3e50; margin-top:0; }
+        .form-header h2 { color: var(--purple-main); margin: 0 0 18px; }
+        .info { margin-top: 15px; }
+        .info strong { color: #1f618d; }
+        .button { display: inline-block; margin: 10px 5px 0 0; padding: 10px 14px; font-weight: bold; border-radius: 10px; text-decoration: none; color: #fff; }
+        .download { background: var(--purple-main); }
+        .download:hover { background: var(--purple-dark); }
+        .dashboard { background: var(--purple-main); }
+        .dashboard:hover { background: var(--purple-dark); }
+        table { border-collapse: collapse; width: 100%; }
+        th, td { border: 1px solid #dcd8e8; padding: 10px; }
+        th { background: #f0ecf8; text-align: left; color: #2c3e50; }
+    </style>
+</head>
+<body>
+    <section class="card">
+        <h1>Carga masiva de estudiantes</h1>
+
+        <div class="info">
+            <h2>Estadísticas de Carga Masiva</h2>
+            <table style="width:100%; border-collapse: collapse;">
+                <thead>
+                    <tr>
+                        <th style="text-align:left; border-bottom: 2px solid #ccc; padding: 8px;">Resultado</th>
+                        <th style="text-align:right; border-bottom: 2px solid #ccc; padding: 8px;">Cantidad</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td style="padding: 8px;">Insertados</td>
+                        <td style="text-align:right; padding: 8px;">{{ insertados }}</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px;">Rechazados</td>
+                        <td style="text-align:right; padding: 8px;">{{ rechazados }}</td>
+                    </tr>
+                    <tr>
+                        <td style="padding: 8px;">Duplicados</td>
+                        <td style="text-align:right; padding: 8px;">{{ duplicados }}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div>
+            <a class="button download" href="/descargar_rechazados" download="rechazados_estudiantes.csv">Descargar archivo de rechazados</a>
+            <a class="button dashboard" href="/tablero/">Volver al tablero</a>
+        </div>
+    </section>
+</body>
+</html>
